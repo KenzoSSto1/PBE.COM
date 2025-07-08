@@ -1,0 +1,67 @@
+body {
+  background: #111;
+  font-family: 'Courier New', monospace;
+  color: #0f0;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 40px auto;
+  padding: 20px;
+  width: 90%;
+  max-width: 600px;
+  background: #1c1c1c;
+  border-radius: 12px;
+  box-shadow: 0 0 15px #00ffcc55;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  color: #00ffee;
+}
+
+.tos {
+  margin-bottom: 15px;
+  font-weight: bold;
+  color: #ff4444;
+}
+
+input, textarea {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  background: #000;
+  color: #0f0;
+  border: 1px solid #0f0;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background: #00ffcc;
+  color: #000;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.result {
+  margin-top: 10px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.discord {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+a {
+  color: #00ffee;
+  text-decoration: none;
+}
